@@ -1,11 +1,11 @@
 #DreamApplication-TaskManager- Suganya Ponnusamy#
 Task Manager App
 
-Description
+Description:
 
 The Task Manager App is a simple yet enhanced task management tool designed to help users efficiently track their tasks. It is intended for individuals who need an easy-to-use application for managing their daily to-dos but with additional features that improve organization and productivity.
 
-Features
+Features:
 
 Task Creation & Deletion: Users can add new tasks and remove completed or unnecessary tasks.
 
@@ -29,13 +29,9 @@ Smart Filtering System: Allows users to focus on priority or time-sensitive task
 
 Offline Functionality: Tasks can be managed even without an internet connection.
 
-Technologies Used
+Technologies Used: JavaScript
 
-JavaScript
-
-HTML & CSS
-
-How It Works
+How It Works:
 
 Add a Task: Enter a task name, set priority, and select a category.
 
