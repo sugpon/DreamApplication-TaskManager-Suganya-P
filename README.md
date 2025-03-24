@@ -19,17 +19,7 @@ Deadline Reminders: Set due dates for tasks and receive alerts.
 
 Search & Filter: Quickly find tasks based on keywords, priority, or category.
 
-What Makes It Unique?
-
-Unlike standard task managers, this app provides a streamlined approach with:
-
-Intuitive User Interface: A minimalistic yet functional design that enhances user experience.
-
-Smart Filtering System: Allows users to focus on priority or time-sensitive tasks.
-
-Offline Functionality: Tasks can be managed even without an internet connection.
-
-Technologies Used: JavaScript
+Technology Used: JavaScript
 
 How It Works:
 
